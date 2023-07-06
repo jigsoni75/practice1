@@ -3,7 +3,9 @@ public class lerning {
     static String Name="jigar";
     static String surname="soni";
     static int age =35;
+    static String city ="London";
     static String profession= "SoftwareTester";
+
 
 
     public static void main(String[] args) {
@@ -11,5 +13,6 @@ public class lerning {
         System.out.println("My surname  is " + surname+".");
         System.out.println("My age is " + age+".");
         System.out.println("My profession is " +profession+".");
+        System.out.println("My City is " + city +".");
     }
 }
